@@ -1,0 +1,5 @@
+{
+  "name": "V2X Communication Simulator",
+  "description": "An interactive web application demonstrating Vehicle-to-Vehicle (V2V) communication using a dynamic simulation. Users can observe real-time message exchanges and trigger events to see how vehicles react to maintain safety. It features an AI-powered scenario generator using the Gemini API.",
+  "requestFramePermissions": []
+}
